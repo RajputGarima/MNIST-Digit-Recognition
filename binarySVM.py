@@ -273,3 +273,4 @@ plt.show()
 # plt.xlabel("Number of hidden layer units")
 # plt.title("Number of neurons v/s accuracy [Batch size: 100]")
 # plt.show()
+
