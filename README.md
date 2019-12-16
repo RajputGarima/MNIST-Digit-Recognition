@@ -2,7 +2,7 @@
 
 ## Binary Classifier
 To classify [MNIST dataset](http://yann.lecun.com/exdb/mnist/) images of digits 7 and 8. <br />
-To solve the convex optimization problem of SVM, CVXOPT was used. One more SVM library called LibSVM was used to generate a new model. The results of both were compared and different kernels(linear and gaussian) were also experimented with.
+To solve the convex optimization problem of SVM, CVXOPT was used. One more SVM library called LibSVM was used to generate a new model. The results of both were compared and different kernels(linear and gaussian) were also experimented with. <br />
 Accuracy with cvxopt: 98.40(linear), 99.20(gaussian)
 Accuracy with libsvm: 98.45(linear), 99.25(gaussian)
 
