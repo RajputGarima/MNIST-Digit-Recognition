@@ -8,4 +8,4 @@ Accuracy with **LibSVM:** 98.45(linear), 99.25(gaussian)
 
 ## Multi-class Classifier
 To classify all the images of the dataset into 0-9 categories. <br />
-Used LibSVM with Gaussian kernel to generate the model and derive the support vectors. Validation set technique was used to derive the correct value of the parameter of Gaussian kernel. The accuracy was 97.23%.
+Used LibSVM with Gaussian kernel to generate the model and derive the support vectors. **Validation set** technique was used to derive the correct value of the parameter of Gaussian kernel. The accuracy was 97.23%.
